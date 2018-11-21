@@ -1,0 +1,2 @@
+# libft
+some libc functions 
